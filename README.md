@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JZOnTheGit
-- 👀 I’m a Music Artist, Game developer using Unity and a Discord Bot Dev tha tonce develpoed the verified bot D3V1L.
-- 🌱 I’m currently learning more unity projects, music and many other things everyday.
+- 👀 I’m a Software Engineering Student at UoL
+- 🌱 I’m currently learning and developing projects for experience which can be seen at my portfolio @ j-singh.net.
 - 💞️ I’m looking to collaborate on Music collabs, games and many other projects
 - 📫 How to reach me, Email: jass150505@gmail.com or Instagram: ```__jainesh__```
 
