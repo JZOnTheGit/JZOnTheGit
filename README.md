@@ -2,7 +2,7 @@
 - 👀 I’m a Software Engineering Student at UoL
 - 🌱 I’m currently learning and developing projects for experience which can be seen at my portfolio @ j-singh.net.
 - 💞️ I’m looking to collaborate on Music collabs, games and many other projects
-- 📫 How to reach me, Email: jass150505@gmail.com or Instagram: ```__jainesh__```
+- 📫 How to reach me, Email: jass150505@gmail.com or Instagram: ```_jasstej_```
 
 <!---
 JZOnTheGit/JZOnTheGit is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
