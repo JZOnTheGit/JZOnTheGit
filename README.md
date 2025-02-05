@@ -8,7 +8,7 @@
 
 ---
 
-### ✨ "Code is not just a tool, it’s my art."  
+### ✨ “Code is not just a tool, it’s my art.”  
 
 </div>
 
@@ -16,14 +16,16 @@
 
 ## 📚 About Me  
 
-Hi! I’m **Jasstej Singh**, a **dedicated software engineer** with a passion for building innovative solutions. With **5+ years of experience**, I specialize in:
-- **Web development**: Crafting scalable, dynamic, and responsive web applications.  
-- **Software engineering**: Building efficient and user-friendly systems.  
-- **AI integration**: Enhancing tools with intelligent features.  
+Hi there! I’m **Jasstej Singh**, a **passionate problem solver** and **digital creator** with over **5 years of experience**. My love for innovation fuels my journey in:
+- **Web development**: Bringing ideas to life with modern frameworks and scalable architecture.  
+- **Software engineering**: Designing efficient, reliable, and user-friendly solutions.  
+- **Artificial Intelligence**: Creating smarter tools and experiences.  
 
-🎓 **Education**: Pursuing a Bachelor’s in **Software Engineering** at the **University of Leicester**.  
+🎓 **Education**:  
+Currently pursuing a Bachelor’s in **Software Engineering** at the **University of Leicester**.  
 
-🎯 **My Mission**: Empowering ideas through technology.  
+🎯 **My Goal**:  
+Empowering businesses and individuals through technology, one project at a time.  
 
 ---
 
@@ -33,28 +35,27 @@ Hi! I’m **Jasstej Singh**, a **dedicated software engineer** with a passion fo
 
 </div>
 
-### 🌐 [TaskTuner](https://task-tuner-brown.vercel.app)  
-> Streamline your workflow with AI-powered scheduling and task management.  
-✨ **Open Source**: [GitHub Repository](https://github.com/JZOnTheGit/TaskTuner).  
-
----
-
 ### 🌐 [IdeaFlow.uk](https://www.ideaflow.uk)  
 > Your AI-powered partner for content creators.  
 📌 Generates content ideas for TikTok, YouTube, and Twitter/X from PDFs and website links.  
-✨ Built with **React**, **Cohere AI**, **Firebase**, **Stripe API**, and deployed with **Cloudflare** + **Vercel**.
+✨ Built with **React**, **Cohere AI**, **Firebase**, **Stripe API**, and deployed with **Cloudflare** + **Vercel**.  
+🔗 [Source Code](https://github.com/JZOnTheGit/ideaFlow)  
 
 ---
 
-### 🔗 [TikTok Video Date Finder](https://github.com/JZOnTheGit/TikTokVideoDate)  
-📌 Retrieve exact upload dates of TikTok videos through their URL.  
+### 🗓️ [TaskTuner](https://task-tuner-brown.vercel.app)  
+> Simplify your event scheduling with AI-powered features.  
+📌 A smart and user-friendly tool for managing tasks and events efficiently.  
+✨ Built with **Next.js**, **Supabase**, **Vercel**, and more.  
+🔗 [Source Code](https://github.com/JZOnTheGit/TaskTuner)  
 
 ---
 
-### ☕ [Krem Café Website](https://krem-draft.j-singh.net)  
-📌 A beautifully designed and user-friendly website for a café business (now closed).  
-✨ Highlights my skills in web design and interactivity.  
-🔗 [Source Code](https://github.com/JZOnTheGit/KREM_Website_draft).  
+### 📅 [TikTok Video Date Finder](https://github.com/JZOnTheGit/TikTokVideoDate)  
+> Retrieve exact upload dates of TikTok videos through their URL.  
+📌 A user friendly way to easily get any tiktok video's upload date.
+✨ Built with **HTML**, **CSS**, and **JavaScript**, utilizing binary conversions. 
+🔗 [Source Code](https://github.com/JZOnTheGit/TikTokVideoDate)  
 
 ---
 
@@ -70,22 +71,25 @@ Hi! I’m **Jasstej Singh**, a **dedicated software engineer** with a passion fo
 
 ```yaml
 Languages: 
-  - JavaScript (Primary)
-  - Python
-  - C#
+  - HTML  
+  - CSS  
+  - JavaScript  
+  - Python  
+  - C#  
 
 Frameworks: 
-  - React.js
-  - Next.js
+  - React.js  
+  - Next.js  
   - Node.js
   
 Platforms & Tools: 
-  - Firebase
-  - Vercel
-  - Stripe API
+  - Firebase  
+  - Vercel  
+  - Supabase  
+  - Stripe API  
   - Cloudflare
-```
 
+```
 ---
 
 <div align="center">
