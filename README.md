@@ -29,36 +29,6 @@ Empowering businesses and individuals through technology, one project at a time.
 
 ---
 
-<div align="center">
-
-## 🚀 Projects at a Glance  
-
-</div>
-
-### 🌐 [IdeaFlow.uk](https://www.ideaflow.uk)  
-> Your AI-powered partner for content creators.  
-📌 Generates content ideas for TikTok, YouTube, and Twitter/X from PDFs and website links.  
-✨ Built with **React**, **Cohere AI**, **Firebase**, **Stripe API**, and deployed with **Cloudflare** + **Vercel**.  
-🔗 [Source Code](https://github.com/JZOnTheGit/ideaFlow)  
-
----
-
-### 🗓️ [TaskTuner](https://task-tuner-brown.vercel.app)  
-> Simplify your event scheduling with AI-powered features.  
-📌 A smart and user-friendly tool for managing tasks and events efficiently.  
-✨ Built with **Next.js**, **Supabase**, **Vercel**, and more.  
-🔗 [Source Code](https://github.com/JZOnTheGit/TaskTuner)  
-
----
-
-### 📅 [TikTok Video Date Finder](https://github.com/JZOnTheGit/TikTokVideoDate)  
-> Retrieve exact upload dates of TikTok videos through their URL.  
-📌 A user friendly way to easily get any tiktok video's upload date.
-✨ Built with **HTML**, **CSS**, and **JavaScript**, utilizing binary conversions. 
-🔗 [Source Code](https://github.com/JZOnTheGit/TikTokVideoDate)  
-
----
-
 ### ✨ Explore More: [Portfolio](https://j-singh.net)  
 
 ---
@@ -90,17 +60,6 @@ Platforms & Tools:
   - Cloudflare
 
 ```
----
-
-<div align="center">
-
-## 🌟 GitHub Stats  
-
-<img src="https://github-readme-stats.vercel.app/api?username=JZOnTheGit&show_icons=true&theme=radical" height="150" alt="GitHub Stats" />  
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=JZOnTheGit&theme=radical" height="150" alt="GitHub Streak Stats" />  
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JZOnTheGit&layout=compact&theme=radical" height="150" alt="Top Languages" />  
-
-</div>
 
 ---
 
