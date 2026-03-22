@@ -1,9 +1,9 @@
 <div align="center">
 
 # 🌟 Jasstej Singh  
-**Full-Stack Developer | AI Enthusiast | Founder of CodeCove**  
+**Full-Stack Developer | AI Enthusiast | Student at UoL**  
 
-> Building custom web & AI-powered solutions for modern businesses.
+> Building custom web & Mobile Applications as my passion
 
 </div>
 
@@ -11,10 +11,10 @@
 
 ## 📚 About Me  
 
-Full-stack developer with **5 years of experience** in **web development** and **AI integration**.  
+Full-stack developer with **5 years of experience** in **web development** and **Mobile Applications**.  
 Currently pursuing a **BSc in Software Engineering** at the **University of Leicester**.
 
-Founder of **CodeCove** — delivering tailored web solutions, e-commerce platforms, and AI applications.  
+Founder of **Urge - Daily Discipline** — A productivity IOS application.  
 Recent projects: **ideaFlow** (content generation) and **TaskTuner** (intelligent scheduling).
 
 ---
