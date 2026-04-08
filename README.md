@@ -61,35 +61,6 @@ BSc Computer Science student at the University of Leicester with a passion for b
 
 ---
 
-## Currently Working On
-
-- Shipping the next update to **Urge**
-- Deepening skills in **SwiftUI** and **iOS development**
-
----
-
-## GitHub Stats
-
-<div align="center">
- 
-![Jasstej's GitHub Stats](https://github-readme-stats.vercel.app/api?username=JZOnTheGit&show_icons=true&theme=default&hide_border=true&count_private=true)
- 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JZOnTheGit&layout=compact&theme=default&hide_border=true)
- 
-</div>
- 
----
- 
-## GitHub Trophies
- 
-<div align="center">
- 
-![Trophies](https://github-profile-trophy.vercel.app/?username=JZOnTheGit&theme=flat&no-frame=true&column=6&margin-w=4)
- 
-</div>
-
----
-
 <div align="center">
   <sub>Open to collaborations, freelance work, and interesting ideas — reach out anytime.</sub>
 </div>
