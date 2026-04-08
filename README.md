@@ -1,63 +1,105 @@
 <div align="center">
 
-# 🌟 Jasstej Singh  
-**Full-Stack Developer | AI Enthusiast | Student at UoL**  
+# Jasstej Singh
 
-> Building custom web & Mobile Applications as my passion
+**Full-Stack & iOS Developer · Software Engineering @ University of Leicester**
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-j--singh.net-FF5722?style=flat-square&logo=firefox&logoColor=white)](https://j-singh.net)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/jainesh-singh-page)
+[![Gmail](https://img.shields.io/badge/Email-jass150505@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:jass150505@gmail.com)
 
 </div>
 
 ---
 
-## 📚 About Me  
+## About
 
-Full-stack developer with **5 years of experience** in **web development** and **Mobile Applications**.  
-Currently pursuing a **BSc in Software Engineering** at the **University of Leicester**.
+BSc Computer Science student at the University of Leicester with a passion for building web and mobile products from the ground up. I enjoy turning ideas into real, shipped software — from full-stack web apps to native iOS experiences.
 
-Founder of **Urge - Daily Discipline** — A productivity IOS application.  
-Recent projects: **ideaFlow** (content generation) and **TaskTuner** (intelligent scheduling).
+- Founder of **[Urge – Daily Discipline](https://apps.apple.com/us/app/urge-daily-discipline/id6758920221)**, a productivity app on the App Store
 
----
-
-## 🛠️ Tech Stack  
-
-```yaml
-Languages: 
-  - HTML  
-  - CSS  
-  - JavaScript  
-  - Python  
-  - C#  
-
-Frameworks: 
-  - React.js  
-  - Next.js  
-  - Node.js
-  
-Platforms & Tools: 
-  - Firebase  
-  - Vercel  
-  - Supabase  
-  - Stripe API  
-  - Cloudflare
-```
+- Comfortable across the full stack — frontend, backend, and mobile
 
 ---
 
-## 📬 Connect with Me  
+## Tech Stack
 
-<p align="center">
-  <a href="https://linkedin.com/in/jainesh-singh-page" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:jass150505@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
-  <a href="https://j-singh.net" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=web&logoColor=white" alt="Portfolio" />
-  </a>
-</p>
+**Languages**
+
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Swift](https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
+
+**Frameworks & Libraries**
+
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![SwiftUI](https://img.shields.io/badge/SwiftUI-F05138?style=flat-square&logo=swift&logoColor=white)
+
+**Platforms & Tools**
+
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white)
+![Stripe](https://img.shields.io/badge/Stripe-008CDD?style=flat-square&logo=stripe&logoColor=white)
 
 ---
 
-✨ Let’s collaborate and build something extraordinary! ✨
+## Projects
+
+| Project | Description | Stack |
+|---|---|---|
+| **[Urge – Daily Discipline](https://apps.apple.com/us/app/urge-daily-discipline/id6758920221)** | iOS productivity app for building daily habits. Live on the App Store. | Swift, SwiftUI |
+| **[Smart Intro Skip](https://github.com/TheIntroDB/kodi-addon)** | Kodi service addon that detects episode intros via TheIntroDB API and shows a skip button or auto-skips. | Python |
+| **[Stream Quality Picker](https://github.com/JZOnTheGit/stream-quality-picker)** | Stremio Enhanced plugin that replaces the default stream list with a grouped quality picker — resolution tiers, visual badges, seeder bars, and smart Best Pick buttons. | JavaScript |
+| **[j-singh.net](https://j-singh.net)** | Personal portfolio website. | Next.js, Tailwind |
+
+---
+
+## Currently Working On
+
+- Shipping the next update to **Urge**
+- Deepening skills in **SwiftUI** and **iOS development**
+
+---
+
+## GitHub Stats
+
+<div align="center">
+
+![Jasstej's GitHub Stats](https://github-readme-stats.vercel.app/api?username=JasstejS&show_icons=true&theme=default&hide_border=true&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JasstejS&layout=compact&theme=default&hide_border=true)
+
+</div>
+
+---
+
+## GitHub Trophies
+
+<div align="center">
+
+![Trophies](https://github-profile-trophy.vercel.app/?username=JasstejS&theme=flat&no-frame=true&column=6&margin-w=4)
+
+</div>
+
+---
+
+## Contribution Graph
+
+<div align="center">
+
+![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=JasstejS&theme=minimal&hide_border=true)
+
+</div>
+
+---
+
+<div align="center">
+  <sub>Open to collaborations, freelance work, and interesting ideas — reach out anytime.</sub>
+</div>
