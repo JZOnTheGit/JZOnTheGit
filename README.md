@@ -71,31 +71,21 @@ BSc Computer Science student at the University of Leicester with a passion for b
 ## GitHub Stats
 
 <div align="center">
-
-![Jasstej's GitHub Stats](https://github-readme-stats.vercel.app/api?username=JasstejS&show_icons=true&theme=default&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JasstejS&layout=compact&theme=default&hide_border=true)
-
+ 
+![Jasstej's GitHub Stats](https://github-readme-stats.vercel.app/api?username=JZOnTheGit&show_icons=true&theme=default&hide_border=true&count_private=true)
+ 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JZOnTheGit&layout=compact&theme=default&hide_border=true)
+ 
 </div>
-
+ 
 ---
-
+ 
 ## GitHub Trophies
-
+ 
 <div align="center">
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=JasstejS&theme=flat&no-frame=true&column=6&margin-w=4)
-
-</div>
-
----
-
-## Contribution Graph
-
-<div align="center">
-
-![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=JasstejS&theme=minimal&hide_border=true)
-
+ 
+![Trophies](https://github-profile-trophy.vercel.app/?username=JZOnTheGit&theme=flat&no-frame=true&column=6&margin-w=4)
+ 
 </div>
 
 ---
