@@ -55,7 +55,7 @@ BSc Computer Science student at the University of Leicester with a passion for b
 | Project | Description | Stack |
 |---|---|---|
 | **[Urge – Daily Discipline](https://apps.apple.com/us/app/urge-daily-discipline/id6758920221)** | iOS productivity app for building daily habits. Live on the App Store. | Swift, SwiftUI |
-| **[Smart Intro Skip](https://github.com/TheIntroDB/kodi-addon)** | Kodi service addon that detects episode intros via TheIntroDB API and shows a skip button or auto-skips. | Python |
+| **[Smart Intro Skip](https://github.com/TheIntroDB/kodi-addon)** | Kodi service addon that detects episode intros via TheIntroDB API and shows a skip button or auto-skips. worked with Pasithea0. | Python |
 | **[Stream Quality Picker](https://github.com/JZOnTheGit/stream-quality-picker)** | Stremio Enhanced plugin that replaces the default stream list with a grouped quality picker — resolution tiers, visual badges, seeder bars, and smart Best Pick buttons. | JavaScript |
 | **[j-singh.net](https://j-singh.net)** | Personal portfolio website. | Next.js, Tailwind |
 
